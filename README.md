@@ -1,6 +1,6 @@
 # Getting started with Angular 2
 
-[HackJam Angular 2](hackjam.hackages.io)
+[Workshop Angular 2](hackjam.hackages.io)
 
 
 The goal of this first HackJam will  be to learn the basic of the Framework
@@ -13,7 +13,7 @@ The goal of this first HackJam will  be to learn the basic of the Framework
     - Define a class/Type
     - Define a typed array
 
-You can find the [repo on Github](https://github.com/hackages/hackjam.angular.git)
+You can find the [repo on Github](https://github.com/hackages/workshop.angular.git)
 
 Clone it: `git clone https://github.com/hackages/hackjam.angular.git`
 
